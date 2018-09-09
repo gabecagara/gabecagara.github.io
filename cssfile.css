@@ -1,0 +1,20 @@
+*{
+    box-sizing:border-box;
+}
+
+h1{
+    font-family: 'Bungee', Courier, monospace;
+    color: dodgerblue;
+    max-width: 50%;
+    margin-left: 25%;
+    margin-top: 80px;
+    font-size: 50px;
+    text-align: center;
+}
+
+
+img {
+    max-width: 50%;
+    margin-left: 25%;
+    margin-bottom: 80px;
+}
